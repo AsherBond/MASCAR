@@ -36,6 +36,6 @@ Please see our short paper in HRI 2026 for an overview:
 - [Universal Robots](/Safety/Universal%20Robots/) - Safety Manual for use of the UR3e
 
 [Source Code](/Source%20Code/)
-- [Python Code](/Source%20Code/Python%20Code/)) - Contains the code for controlling the Robotiq gripper via Raspberry Pi and UR RTDE, and the logger code for recording robot & gripper states
+- [Python Code](/Source%20Code/Python%20Code/) - Contains the code for controlling the Robotiq gripper via Raspberry Pi and UR RTDE, and the logger code for recording robot & gripper states
 - [URCaps](/Source%20Code/URCaps/) - URCap program to be installed on UR3 for custom Robotiq gripper control
 
